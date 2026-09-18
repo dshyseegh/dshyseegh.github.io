@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "36385279a6ed24e8d6897856",
+  "owner": "dshyseegh",
+  "repo": "dshyseegh.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "0257d6bd3d1dc6fa754c7258",
+      "a": "奶瓶(Nerwo)",
+      "b": "首页",
+      "entity": "奶瓶(Nerwo)",
+      "brand": "奶瓶(Nerwo)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "63763b4239dc223e45fb2836a91a23926eadc0e6379886467a04c999a1921271",
+      "content": {
+        "primary_entity": "奶瓶(Nerwo)",
+        "keyword1": "奶瓶(Nerwo)",
+        "keyword2": "首页",
+        "content": {
+          "AI_CLIENTS_INTRO": "奶瓶(Nerwo)支持多类常用设备，可根据系统选择对应客户端，按文档导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后，按设备客户端文档配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用奶瓶",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，分别面向轻度上网、多设备流媒体和团队协作场景，年付可节省费用并支持多平台客户端配置。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度，可以更快匹配到合适的套餐。",
+          "AI_FEATURES_TITLE": "选购要点",
+          "AI_FEATURE_TEXT_1": "按常用设备数量选择，基础版适合个人轻度使用，旗舰版覆盖多设备场景。",
+          "AI_FEATURE_TEXT_2": "每月流量和在线设备数随套餐升级递增，团队版适合多人协作与企业路由需求。",
+          "AI_FEATURE_TEXT_3": "年付方案比按月支付节省费用，适合长期稳定使用，订阅周期可按需切换。",
+          "AI_FEATURE_TITLE_1": "设备匹配",
+          "AI_FEATURE_TITLE_2": "流量与人数",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选择服务、确认设备适配要求，再按客户端文档配置订阅即可完成设置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "奶瓶(Nerwo)是一款面向中文用户的海外加速服务，提供基础版、旗舰版和团队版三档套餐，覆盖不同流量和设备数量需求，用户可按客户端文档配置订阅，适配常见操作系统与使用场景。",
+          "AI_HERO_SUBTITLE": "多档套餐，灵活适配设备",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案更省费用",
+          "AI_PLANS_INTRO": "基础版、旗舰版和团队版在流量、设备数量和线路类型上有区别，可结合使用人数与预算进行对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与设备数量，在基础版、旗舰版和团队版之间选择合适套餐。",
+          "AI_STEP_TEXT_2": "确认常用设备的系统与版本，查看对应客户端是否满足订阅配置条件。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，完成连接设置后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "奶瓶加速，按需选套餐",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "奶瓶(Nerwo)的套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "支持在账户内升级或降级套餐，变更后剩余费用按比例折算，具体规则可在订阅管理界面查看。",
+          "AI_FAQ_QUESTION_2": "一个账号最多能同时连接几台设备？",
+          "AI_FAQ_ANSWER_2": "不同套餐对应不同设备数量上限，基础版较少，旗舰版适中，团队版可满足多人协作。超出限制可能导致连接中断，请按套餐说明使用。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按年付一次性支付全年费用，相比月付可节省两个月费用，适合长期稳定使用的用户。月付则更灵活。",
+          "AI_FAQ_QUESTION_4": "如何配置订阅到我的设备上？",
+          "AI_FAQ_ANSWER_4": "购买后获取订阅链接，在对应客户端中选择导入订阅，粘贴链接后更新节点即可。不同设备客户端操作略有差异，可参考客户端文档。",
+          "AI_FAQ_QUESTION_5": "团队版是否支持多用户分别管理？",
+          "AI_FAQ_ANSWER_5": "团队版提供专属客户经理与定制路由支持，方便团队统一管理。具体多用户分配方式可联系客户经理了解。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "da343fa7c843faca9e7aa8144695565449bd609de750a407a8e53cb4c3f06b2a",
+    "sitemap.xml": "a1080b85913ff731dbd5413d2b37b7165b2aa57674cd33a473f9f6f0ff34c4cf",
+    "robots.txt": "183271c1e060189cb99b7af58df5c5f40c6e7dccc8a8ef00d293d34f2f5f6102",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "cdd9706129a99be214ece1ebdd1460174dd412a0708b7a3c92215ca32065e112"
+}
